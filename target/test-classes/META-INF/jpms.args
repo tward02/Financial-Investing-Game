@@ -1,0 +1,4 @@
+--patch-module
+uk.investingGame=_
+--add-reads
+uk.investingGame=ALL-UNNAMED
